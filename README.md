@@ -1,3 +1,5 @@
+# Please see the Test Branch for swipe. I merged the code from https://github.com/aggarwalsushant/openboard-gesturetyping with the code from the OG repo. Just need to compile the APK in android studio and your good to go!
+
 <h1 align="center"><b>OpenBoard</b></h1>
 <h4 align="center">100% FOSS keyboard, based on AOSP.</h4>
 <p align="center"><img src='fastlane/metadata/android/en-US/images/icon.png' height='128'></p>
